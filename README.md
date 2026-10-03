@@ -8,7 +8,7 @@ Construyo aplicaciones
 
 
 [LinkedIn](https://www.linkedin.com/in/mar%C3%ADa-chango-479102414/)
-, [Email](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new)
+
 
 
 
