@@ -1,8 +1,4 @@
 
-<p align="center">
-  <img src="https://vercel.app" alt="Header GitHub" />
-</p>
-
 ### Hola,soy María Chango 
 
 ### Desarrolladora Full Stack Junior & Cloud Enthusiast | Quito, EC 
