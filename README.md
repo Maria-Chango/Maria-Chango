@@ -1,30 +1,26 @@
 
 
-# ¡Hola Mundo! Soy María Chango 
+### Hola,soy María Chango 
 
-### Desarrolladora Full Stack Junior & Cloud Enthusiast
-De **Quito, Ecuador** |  Universidad Internacional del Ecuador (UIDE)
+### Desarrolladora Full Stack Junior & Cloud Enthusiast | Quito, EC 
 
----
+Construyo aplicaciones
 
-## Sobre Mí
-Soy una estudiante de Ingeniería en Sistemas de Información enfocada en el **desarrollo de software frontend/backend** y el ecosistema de **tecnologías en la nube**. Actualmente, estoy cursando materias clave en **Cloud Computing (AWS), Bases de Datos y Arquitectura Empresarial**, lo que me permite diseñar soluciones web robustas, aplicando patrones arquitectónicos modernos y conectando infraestructuras eficientes en la nube.
 
-- Actualmente me encuentro profundizando en el desarrollo de APIs con **FastAPI** y despliegues en **AWS** (EC2, S3, RDS).
-- Pregúntame sobre desarrollo con **React**, backend con **Python** o el diseño de bases de datos relacionales.
-- Disponible de forma inmediata para colaborar o validar mis **horas de pasantías académicas**.
+[LinkedIn](https://www.linkedin.com/in/mar%C3%ADa-chango-479102414/)
+, [Email](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new)
 
----
 
-## Mi Stack Tecnológico & Enfoque Académico
+
+## Mi Stack Tecnológico y Enfoque Académico
 
 | Área | Tecnologías y Conceptos Dominados |
 | :--- | :--- |
 | **Cloud & Infraestructura** | **Amazon EC2, Amazon S3, Amazon RDS** y virtualización con VMware. |
 | **Backend & BD** | **SQL, SQLModel** y Modelado Relacional. |
-| **Frontend & UI** | |
+| **Frontend & UI** |  **JavaScript, React, HTML5 y CSS3** para el desarrollo de interfaces de usuario responsivas. |
 | **Arquitectura** | **Arquitectura Empresarial (SPAs)**, Integración de Sistemas y Metodologías Ágiles. |
-| **Control de Versiones** | |
+| **Control de Versiones** |  **Git, GitHub** y flujo de trabajo estructurado para el control del ciclo de vida del código.|
 
 ---
 
@@ -51,15 +47,10 @@ Colección de scripts y componentes lógicos centrados en seguridad lógica y ba
 
 ---
 
-## Mis Estadísticas de GitHub
+
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=Maria-Chango&theme=ocean)
 
 ---
 
-## ¡Conectemos!
-
-[LinkedIn](https://www.linkedin.com/in/mar%C3%ADa-chango-479102414/)
-
-[Correo Electrónico](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new)
 
 
